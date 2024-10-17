@@ -1,0 +1,27 @@
+.Academice {
+    color: #FFF;
+}
+
+.Academice tr th,
+.Academice tr td {
+    border: 1px solid #eee;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+
+.Academice table {
+    border-collapse: collapse; /* folding border */
+    border-spacing: 0; 
+}
+
+.login-but {
+    background-color: #4285f4;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    margin-top: 60px;
+}
